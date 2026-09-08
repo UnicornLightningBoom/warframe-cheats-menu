@@ -6,7 +6,7 @@ Warframe cheats menu with platinum hack, god mode, no reload, infinite energy, s
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -75,7 +75,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Run the loader **as Administrator**.
 4. Launch Warframe and load into any mission.
